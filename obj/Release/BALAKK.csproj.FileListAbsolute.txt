@@ -3,6 +3,7 @@ C:\Users\david\source\repos\WpfApp1\WpfApp1\bin\Release\BALAKK.exe.manifest
 C:\Users\david\source\repos\WpfApp1\WpfApp1\bin\Release\BALAKK.application
 C:\Users\david\source\repos\WpfApp1\WpfApp1\bin\Release\BALAKK.exe
 C:\Users\david\source\repos\WpfApp1\WpfApp1\bin\Release\BALAKK.pdb
+C:\Users\david\source\repos\WpfApp1\WpfApp1\obj\Release\BALAKK.csproj.AssemblyReference.cache
 C:\Users\david\source\repos\WpfApp1\WpfApp1\obj\Release\BALAKK.csproj.SuggestedBindingRedirects.cache
 C:\Users\david\source\repos\WpfApp1\WpfApp1\obj\Release\MainWindow.g.cs
 C:\Users\david\source\repos\WpfApp1\WpfApp1\obj\Release\App.g.cs

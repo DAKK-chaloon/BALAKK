@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BALAKK.exe" size="324064">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BALAKK.exe" size="263136">
       <assemblyIdentity name="BALAKK" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>8hsLId+Vic+djvTY927pOgOitTr7cUtvO/7jjq9FckI=</dsig:DigestValue>
+        <dsig:DigestValue>yyNycQoqiFK3lY9C9y82FMocAoihO3rmOYa1k/gj+9Y=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
