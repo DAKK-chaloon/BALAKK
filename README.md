@@ -3,7 +3,7 @@ Facilitateur de déplacement pour le jeu DOFUS et DOFUS Retro
 
 ## Compatibilité
 
-Fonctionne sur DOFUS et DOFUS Retro. Afin que le logiciel fonctionne avec DOFUS Retro, celui-ci doit être en mode Moderne dans les paramètres du Launcher Ankama.
+Fonctionne sur DOFUS et DOFUS Retro. Afin que le logiciel fonctionne avec DOFUS Retro, celui-ci doit être en mode Modern dans les paramètres du Launcher Ankama.
 
 
 ## Utilisation
