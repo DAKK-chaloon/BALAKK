@@ -12,3 +12,7 @@ Clic molette : Déplace les personnages de toutes les fenêtres dofus avec un d�
 
 Alt + Clic molette : Déplace les personnages de toutes les fenêtres dofus sans délai.
 
+## À venir
+
+- Changement de fenêtre avec les boutons Suivant et Précédent de la souris (souris à 5 touches)
+- Customisation des raccourcis
